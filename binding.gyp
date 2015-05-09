@@ -27,6 +27,7 @@
       "src/objects/node/NodeTrackExtended.cc"
     ],
     "include_dirs": [
+      "/usr/local/opt/libspotify/include",
       "<!(node -e \"require('nan')\")"
     ],
     "link_settings" : {
